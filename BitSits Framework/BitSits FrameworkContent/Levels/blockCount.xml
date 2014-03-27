@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[System.Int32]">
+    1 <!--EndPovertyAndHunger-->
+
+    2 <!--UniversalEducation-->
+
+    2 <!--GenderEquality-->
+
+    1 <!--ChildHealth-->
+
+    1 <!--MaternalHealth-->
+
+    2 <!--CombatAIDS-->
+
+    2 <!--EnvironmentalSustainability-->
+
+    1 <!--GlobalParnership-->
+  </Asset>
+</XnaContent>

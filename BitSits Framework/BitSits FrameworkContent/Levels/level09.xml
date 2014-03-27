@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="GameDataLibrary.LevelData">
+    <MinScore>40</MinScore>
+    <StarScore>44</StarScore>
+    <BlockData>
+      <Item>........</Item>
+      <Item>........</Item>
+      <Item>..222.44</Item>
+      <Item>..2.2444</Item>
+      <Item>22222.44</Item>
+      <Item>222.....</Item>
+    </BlockData>
+  </Asset>
+</XnaContent>
