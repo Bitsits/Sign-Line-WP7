@@ -12,5 +12,5 @@ The symbols used in this game teach the player how we can achieve our Millennium
 
 #Troubleshooting
 If you have problems getting the game to run. You should install:
-  * .NET Framework 3.5 Service Pack 1
-  * XNA Framework 3.1
+  * .NET Framework 4.0
+  * XNA Framework 4.0
