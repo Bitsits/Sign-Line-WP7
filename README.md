@@ -20,7 +20,7 @@ Screenshots
 
 Download
 ---
-[Sign Line.zip (4.34 MB)][zip]
+[Sign Line.zip][zip] (4.34 MB)
 
 Troubleshooting
 ---
